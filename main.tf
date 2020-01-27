@@ -1,5 +1,5 @@
 provider "google" {
-  credentials = file("My-First-Project_key.json")
+  credentials = file("project-key.json")
 
   project = "spiritual-pride-266413"
   region  = "us-central1"
