@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "spiritual-pride-266413",
+  "private_key_id": "faa37cb899d7b32371dd421101d83d7d548e1f6f",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCpZHrd5UKyPBPj\nrBk0jzBxLv1Nge0mDngdHm2SQtzAGGWwDqnCtISPOeirPMdZhV4UheKzI3OBLbs2\nTAlHZnWushFSSmUFCFwgbzS+X+UJSNBaejdQDJJtqMvhadymvKOZVeX2nxmhdGu0\nxfGD4vabeqKy1zeMw0Lq4JME+XRFpubcGULC4tA4ZG0sBOmmxoTJi2djHXazZykD\nS1YxpfsEI8ig/ArjNFtyosVbk1C8LS26iGXIhjU7vzip33prvvQ/RMkwopjGcFjK\nEufL4HzCTZdH8FH3RZ8iXFbG66yCBS/EZpocPfGlWssw2qw7KmG2plRRvaCdG7Oq\nQrTFmBIHAgMBAAECggEAAQG5Xzc9Gb0Uqy47Kh5NveZ3F+5VP/wnB5lGMm/WSwf6\nFr1HkgIrpYRFFztxvdz2ja2sBr+HsLVaXvy9s2BvA55ITxJlHk4J6iFvEVCVlmQJ\n5PfD+2RPvHob2BeeeZk2abNifgA9EUIVX8orYMrJB2yHqgNwb5Q7ghTamtV2tPFC\nAq8I/rWC+kjWFdLBNn88m8XyKZMYNj4IL4Avtbm/BM/SkPaPiuyq34LAFrePYFQt\nMC7RC7q6tc1KJ5DBfitY6kM48dCLPKxXCVDuxza8uQgJnNvOb2M/p3cjX6GcSa8V\n9xXYYQYQLr0yXZq+C0e0M6mJNHu/iprkJmyuAijcPQKBgQDkHwL+UbPUYN9W+DEG\n5aQQSd+HVULOEjXzNlBQUdIs3Hx5t4pm3dAMIIINRe/8jJ4YHAodCDXeEhv9hzPv\n9itPZcHfOJLrySfa7OCI6+IF9fGS67/3JXOiPbN9rvmuZ16vAuYUh2rWsCFmQPH+\nQqkiwty+gWbBH6r8f777cDvAmwKBgQC+GBYmYGtUDDjuVXPnMJJyhTjl9LWqDSZp\ns8KwfUSxMpo+SvZm6AGGvdYONMJ8rgufZ/Aq0OSXOWlr3gvKQxLEU1dmKllBDqZX\nT+heHxSGETMsMTElyH95oW149R8RTK9HIj4ppu/jjMzg9cDRcpdGmUJHQmdJu5hP\nxRSxOS9dBQKBgC/Brka/o/4aKadzXhArkyU10e3rE4lAlrrL7BRkjLOHlSeGHRtb\n5GolhBRzR8J/TbmOZS+ewGg1MlbpLx5VUsvUabnphhiGjClw3bDMcQz+aAxx/kYn\nOQYGFMWDFBJG4bORz8kMcHlxdgyKHB82pWH5mWzoejKEBq/Frp3E6T1xAoGBAJMN\newURDbYlBl2JCXJNJt0kphFuLqJwLckTYIa7QUp6xMtvnhGZZKThchfnRJTC5wbX\nlvjoRA2gQidJzIEZRglOF4xXMlibhp6AmFdHX88euyFypHyAD+z9rfwmU3REiEtU\n+BWsqGK1Z0CXnCPqq4/Xu2f4vIJTds4uvYUjobopAoGAGCasdWSMcdyv+pOS321n\n28+Nt+zQHst2lkywlS6kYEjnh3al0fcF5uj38gKmorToGhFUWL+4LkGHefBbFY0X\nQiC4fY/os/51EWcftS0f7zcE/0YMCwk7ubzUKYSv0h9iLxkxdSfVWHvFZADIht3u\neBleOiGVTXwqOzsFJT88flU=\n-----END PRIVATE KEY-----\n",
+  "client_email": "sam-w-bratherton@spiritual-pride-266413.iam.gserviceaccount.com",
+  "client_id": "104948632053415913629",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/sam-w-bratherton%40spiritual-pride-266413.iam.gserviceaccount.com"
+}
